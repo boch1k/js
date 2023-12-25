@@ -1,2 +1,2 @@
-crosses-zeroes game on JS
+crosses-zeroes game on JS.
 my firs code which does something :)
